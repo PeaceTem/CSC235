@@ -16,6 +16,6 @@ int main(int argc, char *argv[])
 	a2 = (-y - D)/(2*x);
 	
 	printf("%f", D);
-	printf("\na1 is%f, a2 is %f", a1, a2);
+	printf("\na1 is %f, a2 is %f", a1, a2);
 	return 0;
 }

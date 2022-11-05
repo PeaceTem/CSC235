@@ -21,7 +21,6 @@ void numericCounter(int end)
     
     while (start <= end)
     {
-        
         printf("%d\n", start);
         start++;
     }

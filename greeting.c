@@ -10,6 +10,6 @@ int main(int argc, char *argv[])
 	printf("Enter the name of your lecturer: \n");
 	fgets(lecturer, 50, stdin);
 	// It prints "Hello world, Dr. Ayinla!"
-	printf("\nHello world, %s!", lecturer);
+	printf("\nHello world, %s", lecturer);
 	return 0;
 }
